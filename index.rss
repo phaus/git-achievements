@@ -2,6 +2,13 @@
 <title>Philipp Haussleiter's Git Achievements</title>
 <description></description>
 <link></link>
+<<<<<<< HEAD
+=======
+<item><title>Apprentice Product Manager (Level 1)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
+<item><title>Apprentice Butcher (Level 1)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
+<item><title>Apprentice Collector (Level 3)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
+<item><title>Master Stone Mason (Level 7)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
+>>>>>>> 8769492f3d393d01ebc44fc6dd6096ee1b5e500d
 <item><title>Apprentice Seamstress (Level 1)</title><description>amended a commit with git commit --amend.</description></item>
 <item><title>Master Socialite (Level 7)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Apprentice Collector (Level 3)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
@@ -21,5 +28,8 @@
 <item><title>Author (Level 4)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Apprentice Collector (Level 2)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
 <item><title>Socialite (Level 4)</title><description>pushed a branch to a remote repository using git push</description></item>
+<<<<<<< HEAD
 <item><title>Apprentice Collector (Level 1)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
+=======
+>>>>>>> 8769492f3d393d01ebc44fc6dd6096ee1b5e500d
 </channel></rss>

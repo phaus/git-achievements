@@ -2,7 +2,7 @@
 <title>Philipp Haußleiter's Git Achievements</title>
 <description></description>
 <link></link>
-<item><title>Merchant (Level 4)</title><description>Added an external repository with git remote add.</description></item>
+<item><title>Apprentice Cathedral Worker (Level 2)</title><description>Cloned submodule repository and checked out commits specified by superproject.</description></item>
 <item><title>Master Author (Level 9)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Master Socialite (Level 9)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Apprentice Butcher (Level 3)</title><description>Performed an interactive rebase using git rebase -i.</description></item>

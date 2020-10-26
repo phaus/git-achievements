@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
-<title>Philipp Haußleiter's Git Achievements</title>
+<title>Philipp Haussleiter's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Banker (Level 4)</title><description>Join two or more development histories together with git merge.</description></item>
 <item><title>Blacksmith (Level 6)</title><description>Created a branch using git checkout -b.</description></item>
 <item><title>Collector (Level 6)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
 <item><title>Apprentice Banker (Level 3)</title><description>Join two or more development histories together with git merge.</description></item>
@@ -19,7 +20,6 @@
 <item><title>Apprentice Web Designer (Level 2)</title><description>Instantly browse your working repository in gitweb with git instaweb</description></item>
 <item><title>Student</title><description>Accessed the documentation for a command with git [command] --help</description></item>
 <item><title>Master Author (Level 9)</title><description>Made 2^Level commits using git commit.</description></item>
+<item><title>Merchant (Level 5)</title><description>Added an external repository with git remote add.</description></item>
 <item><title>Master Socialite (Level 9)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Apprentice Butcher (Level 3)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
-<item><title>Collector (Level 5)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
 </channel></rss>

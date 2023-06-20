@@ -2,6 +2,7 @@
 <title>Philipp Haussleiter's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Garage Inventor</title><description>Used a custom alias for a Git command</description></item>
 <item><title>Banker (Level 6)</title><description>Join two or more development histories together with git merge.</description></item>
 <item><title>Cathedral Worker (Level 4)</title><description>Cloned submodule repository and checked out commits specified by superproject.</description></item>
 <item><title>Cleaning lady (Level 5)</title><description>Remove untracked files from the working tree with git clean</description></item>
@@ -21,25 +22,4 @@
 <item><title>Master Blacksmith (Level 7)</title><description>Created a branch using git checkout -b.</description></item>
 <item><title>Student</title><description>Accessed the documentation for a command with git [command] --help</description></item>
 <item><title>Apprentice Thug (Level 2)</title><description>Forced pushed a branch with git push -f</description></item>
-<item><title>Master Author (Level 10)</title><description>Made 2^Level commits using git commit.</description></item>
-<item><title>Master Stone Mason (Level 9)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
-<item><title>Butcher (Level 4)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
-<item><title>Apprentice Merchant (Level 3)</title><description>Added an external repository with git remote add.</description></item>
-<item><title>Collector (Level 6)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
-<item><title>Seamstress (Level 4)</title><description>amended a commit with git commit --amend.</description></item>
-<item><title>Blacksmith (Level 5)</title><description>Created a branch using git checkout -b.</description></item>
-<item><title>Master Socialite (Level 8)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Apprentice Butcher (Level 3)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
-<item><title>Collector (Level 5)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
-<item><title>Master Author (Level 8)</title><description>Made 2^Level commits using git commit.</description></item>
-<item><title>Let there be light</title><description>Commit without a parent.</description></item>
-<item><title>Apprentice Merchant (Level 2)</title><description>Added an external repository with git remote add.</description></item>
-<item><title>Apprentice Seamstress (Level 3)</title><description>amended a commit with git commit --amend.</description></item>
-<item><title>Apprentice Historian (Level 2)</title><description>Investigate the commit log using git log.</description></item>
-<item><title>Apprentice Seamstress (Level 2)</title><description>amended a commit with git commit --amend.</description></item>
-<item><title>Apprentice Merchant (Level 1)</title><description>Added an external repository with git remote add.</description></item>
-<item><title>Master Socialite (Level 7)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Master Author (Level 7)</title><description>Made 2^Level commits using git commit.</description></item>
-<item><title>Caretaker</title><description>Added a .gitignore file to a repository.</description></item>
-<item><title>Apprentice Butcher (Level 2)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
 </channel></rss>
